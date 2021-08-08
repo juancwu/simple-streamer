@@ -1,0 +1,30 @@
+{
+  "name": "@juancwu/simple-streamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "stream": "./index.js"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "cli",
+    "simple",
+    "stream",
+    "mp4",
+    "video",
+    "web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancwu/simple-streamer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juancwu/simple-streamer/issues"
+  },
+  "homepage": "https://github.com/juancwu/simple-streamer#readme",
+  "author": "Juan Carlos Wu <jczas@sina.com> (https://juancwu.com/)",
+  "license": "MIT"
+}
